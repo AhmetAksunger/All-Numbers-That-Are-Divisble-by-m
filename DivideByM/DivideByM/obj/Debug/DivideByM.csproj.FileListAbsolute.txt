@@ -1,0 +1,8 @@
+C:\Users\90538\source\repos\DivideByM\DivideByM\bin\Debug\DivideByM.exe.config
+C:\Users\90538\source\repos\DivideByM\DivideByM\bin\Debug\DivideByM.exe
+C:\Users\90538\source\repos\DivideByM\DivideByM\bin\Debug\DivideByM.pdb
+C:\Users\90538\source\repos\DivideByM\DivideByM\obj\Debug\DivideByM.csproj.AssemblyReference.cache
+C:\Users\90538\source\repos\DivideByM\DivideByM\obj\Debug\DivideByM.csproj.SuggestedBindingRedirects.cache
+C:\Users\90538\source\repos\DivideByM\DivideByM\obj\Debug\DivideByM.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\DivideByM\DivideByM\obj\Debug\DivideByM.exe
+C:\Users\90538\source\repos\DivideByM\DivideByM\obj\Debug\DivideByM.pdb
